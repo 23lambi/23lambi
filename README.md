@@ -2,53 +2,87 @@
 
 <div align="center">
 
-# Hi, I'm Lampros 👋
+# ⚡ LAMPROS PATAS
 
-### Software Developer | Python & C++ | Linux
+### Software Developer · Python · C++ · Linux
 
-🎓 BSc in Computer Science & Telecommunications  
-📍 Germany
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=1000&color=FF647C&center=true&vCenter=true&width=520&lines=Computer+Science+Graduate;Python+%26+Backend+Development;C%2B%2B+%26+Systems+Programming;Linux+%26+Open+Source+Enthusiast" alt="Typing SVG" />
 
-*Passionate about software development, systems programming, and open-source technology.*
+<br/>
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=23lambi&color=dc4762&style=flat-square)
 
-### 👨‍💻 About Me
-
-🐍 Focused on Python and backend development
-
-⚙️ Interested in C++ and systems programming
-
-🐧 Linux enthusiast and homelab builder
-
-📚 Learning software architecture, algorithms, and backend engineering
+</div>
 
 ---
 
-### 🛠️ Languages & Technologies
+### `> whoami`
 
-![Python](https://img.shields.io/badge/Python-1D2028?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-1D2028?style=for-the-badge&logo=cplusplus)
-![Linux](https://img.shields.io/badge/Linux-1D2028?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-1D2028?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/Git-1D2028?style=for-the-badge&logo=git)
-![Neovim](https://img.shields.io/badge/Neovim-1D2028?style=for-the-badge&logo=neovim)
-![CMake](https://img.shields.io/badge/CMake-1D2028?style=for-the-badge&logo=cmake)
+```python
+developer = {
+    "name": "Lampros Patas",
+    "education": "BSc Computer Science & Telecommunications",
+    "location": "Germany",
+    "main_language": "Python",
+    "interests": [
+        "Backend Development",
+        "Systems Programming",
+        "Software Engineering",
+        "Linux & Open Source"
+    ],
+}
+```
+
+### `> tech_stack`
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,dart&theme=dark" alt="Programming languages" />
+
+**Development Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,neovim,cmake&theme=dark" alt="Development tools" />
+
+**Systems & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=linux,docker,debian,bash,nginx&theme=dark" alt="Systems and infrastructure" />
+
+</div>
 
 ---
 
-### 🎯 Currently Learning
+### `> currently_learning`
 
-Python Backend Development • Data Structures & Algorithms • Software Engineering
-
----
-
-### 📫 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-23lambi-181717?style=for-the-badge&logo=github)](https://github.com/23lambi)
+- Python backend development
+- Data structures & algorithms
+- Software architecture & design patterns
+- C++ and low-level programming
 
 ---
 
-*Code. Build. Learn. Repeat.*
+### `> development_environment`
+
+```text
+OS       CachyOS / Linux
+WM       Hyprland
+Editor   Neovim
+Shell    Fish
+Terminal Kitty
+Lab      Proxmox / Docker
+```
+
+---
+
+### `> connect`
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-23lambi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/23lambi)
+
+<br/>
+
+**Code. Build. Learn. Repeat.**
 
 </div>
